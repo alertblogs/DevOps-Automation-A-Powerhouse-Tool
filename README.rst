@@ -1,44 +1,22 @@
-Red Canary says 43% Lack Readiness to Notify Customers of a Security Breach
+DevOps Automation: A “Powerhouse” Tool
 ========
 
- 
- The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them.
+Powerful Culture
+====
+The DevOps model unites development and IT operations to create a powerful organizational culture to achieve business goals more efficiently. Formerly siloed teams can now collaborate continuously to build more robust products, with increased confidence, and achieve business goals faster. 
 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+No Pain, No Gain 
+====
+DevOps may be a game-changer but it can be difficult to implement. Especially in large organizations, standardizing processes and tooling culture takes strategizing and persistence. When perfecting the shift to DevOps, it’s vital to empower your teams with the right tools to automate collaboration and coordination. Focus on Incident management automation, allowing organizations to focus on implementing change while ensuring incidents receive the attention they need.
 
-Not One Size Fits All
-========
+Automate DevOps Operations: Provisioning and Development 
+=====
+A few Key areas to automate DevOps processes are provisioning and development. DevOps environments house various technologies, and provisioning changes to these complex environments becomes extremely tedious. Integrating no-code tools into your monitoring infrastructure allows for holistic solutions, enabling engineers to automate managing and monitoring of relevant systems. The DevOps model is all about continuous integration and development, but manual IT processes hinder this feedback loop. By implementing tools with an open API and automation features, teams can produce POCs and deliver resources sooner, automating continuous testing and development for more efficient delivery.
 
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+Bring An Automation Powerhouse 
+====
+Tools like AlertOps turbocharge the CI/CD pipeline with fully enabled toolchains. Pre-configured two-way AlertOps integrations are available for the most-popular ITSM tools. The open REST API and Open Email APIs plug into existing monitoring tools so organizations can create custom workflows to automate tasks such as incident escalations. Managers can always be sure that the right team members are automatically notified about critical incidents, decreasing MTTR and reducing the risk of costly, time-intensive downtime and outages. With a no-code workflow engine, AlertOps has been called an “automation powerhouse,” a highly flexible tool that works with your processes to automate DevOps operations.  
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
-
-Automate Processes
-========
-
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
-
-Clarity
-========
-
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
-
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
- 
-Insightful Notifications
-========
-
-
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
-
-Conclusion
-========
-
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
 
 Source:
 ========
